@@ -4,6 +4,6 @@ chapter: true
 weight: 30
 ---
 
-# Labs
+# Feature Management Labs
 
-CloudBees Feature Management workshop labs.
+In this section you will get familiar with CloudBees Feature Management account and explore its features.
