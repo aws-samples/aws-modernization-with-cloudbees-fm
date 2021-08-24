@@ -35,3 +35,6 @@ We highly recommend creating a new GitHub Organization for the CloudBees Feature
 5. You may be prompted for your GitHub password. Enter your GitHub.com password, for the GitHub account you are using for this workshop, to complete the installation of the CloudBees Feature Management Workshop GitHub App into your workshop specific GitHub Organization.
 6. The CloudBees Feature Management Workshop GitHub App is now installed on your workshop GitHub Organization. ![GitHub App Installed](installed-now.png?width=50pc)
 
+## Next Steps
+
+Congratulations! you have completed the pre-requisites. Proceed to the next section to start the Feature Management labs.
