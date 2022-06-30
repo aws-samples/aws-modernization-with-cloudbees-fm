@@ -8,6 +8,7 @@ weight: 20
 
 Welcome to the Self Guided Setup section. Here is a preview of what we will be setting up:
 
+* (Optional) Sign up for CloudBees Feature Management free trial
 * Setup GitHub account
 * Setup GitHub Organization
 * Install CloudBees Feature Management Workshop GitHub App

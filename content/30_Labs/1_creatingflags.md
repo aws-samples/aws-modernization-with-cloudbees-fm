@@ -8,9 +8,9 @@ In this lab, you will set up a CloudBees Feature Management account and use it t
 
 ### Create a CloudBees Feature Management Account
 
-1. Open the CloudBees Feature Management [sign-up form](https://rollout.io/sign-up/) in a _new tab_ within your browser. If you already have a CloudBees Feature Management account the [click here to login to your account](https://app.rollout.io/login) and proceed to step 3.
-2. Fill out the form with your name, email, and a created password. After confirming your password, check the box agreeing to CloudBees Feature Management' Terms of Service (which can be viewed [here](https://docs.cloudbees.com/docs/cloudbees-common/latest/subscription-agreement/)), and click **Sign Up**.
-3. After you have successfully created an account, the CloudBees Feature Management dashboard will be displayed. Create a new application by clicking the blue panel in the top left corner of the screen.
+1. Open the [CloudBees Feature Management portal](https://app.rollout.io/login) 
+2. Enter your user name and password to login.
+3. From the CloudBees Feature Management dashboard will be displayed. Create a new application by clicking the blue panel in the top left corner of the screen.
 4. After creating a new application in the dashboard, click the **App Settings** panel seen on the left hand menu. From the resulting page, select the **Environments** tab.
 5. Click **Add New Environment** and name it **Development**. Then click **Generate Key**.
 6. **Close** the subsequent **Development Key** pop-up window so that both _Production_ and _Development_ keys are displayed. Leave this CloudBees Feature Management dashboard tab open in the browser. Both keys will be referenced later in this lab.

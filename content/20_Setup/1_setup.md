@@ -5,6 +5,17 @@ weight: 1
 --- 
 #### <i class="fas fa-clock"></i> The pre-lab setup should take you approximately 10 minutes to complete.
 
+## CloudBees Feature Management sign up
+
+This is optional steps if you don't have an existing CloudBees Feature Management subscription. AWS Marketplace offers free trial for CloudBees Feature Management. 
+
+1. From a new browser tab, visit [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-rzasy5yb6fzem).
+2. On CloudBees Feature Management product page, select **Try for free**.
+3. Select **Create contract** and complete the dialog to sign up for free trial.
+4. After you subscribed, select **Set up your account** to finish your account setup.
+5. Enter your email address, password, first name and last name.
+6. After confirming your password, check the box agreeing to CloudBees Feature Management' Terms of Service (which can be viewed [here](https://docs.cloudbees.com/docs/cloudbees-common/latest/subscription-agreement/)), and click **Sign Up**.
+
 ## GitHub Setup
 
 ### Create a GitHub.com Account
